@@ -1,0 +1,50 @@
+C:\Users\musli\source\repos\Login Radyo\Login Radyo\bin\Debug\Login Radyo.exe.config
+C:\Users\musli\source\repos\Login Radyo\Login Radyo\bin\Debug\Login Radyo.exe
+C:\Users\musli\source\repos\Login Radyo\Login Radyo\bin\Debug\Login Radyo.pdb
+C:\Users\musli\source\repos\Login Radyo\Login Radyo\obj\Debug\Login Radyo.csproj.AssemblyReference.cache
+C:\Users\musli\source\repos\Login Radyo\Login Radyo\obj\Debug\Login Radyo.csproj.SuggestedBindingRedirects.cache
+C:\Users\musli\source\repos\Login Radyo\Login Radyo\obj\Debug\Login_Radyo.Form1.resources
+C:\Users\musli\source\repos\Login Radyo\Login Radyo\obj\Debug\Login_Radyo.Properties.Resources.resources
+C:\Users\musli\source\repos\Login Radyo\Login Radyo\obj\Debug\Login Radyo.csproj.GenerateResource.cache
+C:\Users\musli\source\repos\Login Radyo\Login Radyo\obj\Debug\Login Radyo.csproj.CoreCompileInputs.cache
+C:\Users\musli\source\repos\Login Radyo\Login Radyo\obj\Debug\Login Radyo.exe
+C:\Users\musli\source\repos\Login Radyo\Login Radyo\obj\Debug\Login Radyo.pdb
+C:\Users\musli\source\repos\Login Radyo\Login Radyo\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\musli\source\repos\Login Radyo\Login Radyo\bin\Debug\Google.Protobuf.dll
+C:\Users\musli\source\repos\Login Radyo\Login Radyo\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\musli\source\repos\Login Radyo\Login Radyo\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\musli\source\repos\Login Radyo\Login Radyo\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\musli\source\repos\Login Radyo\Login Radyo\bin\Debug\MySql.Data.dll
+C:\Users\musli\source\repos\Login Radyo\Login Radyo\bin\Debug\System.Buffers.dll
+C:\Users\musli\source\repos\Login Radyo\Login Radyo\bin\Debug\System.Memory.dll
+C:\Users\musli\source\repos\Login Radyo\Login Radyo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\musli\source\repos\Login Radyo\Login Radyo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\musli\source\repos\Login Radyo\Login Radyo\bin\Debug\ZstdNet.dll
+C:\Users\musli\source\repos\Login Radyo\Login Radyo\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\musli\source\repos\Login Radyo\Login Radyo\bin\Debug\Google.Protobuf.pdb
+C:\Users\musli\source\repos\Login Radyo\Login Radyo\bin\Debug\Google.Protobuf.xml
+C:\Users\musli\source\repos\Login Radyo\Login Radyo\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\musli\source\repos\Login Radyo\Login Radyo\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\musli\source\repos\Login Radyo\Login Radyo\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\musli\source\repos\Login Radyo\Login Radyo\bin\Debug\MySql.Data.xml
+C:\Users\musli\source\repos\Login Radyo\Login Radyo\bin\Debug\System.Buffers.xml
+C:\Users\musli\source\repos\Login Radyo\Login Radyo\bin\Debug\System.Memory.xml
+C:\Users\musli\source\repos\Login Radyo\Login Radyo\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\musli\source\repos\Login Radyo\Login Radyo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\musli\source\repos\Login Radyo\Login Radyo\obj\Debug\Login Radyo.csproj.CopyComplete
+C:\Users\musli\source\repos\Login Radyo\Login Radyo\bin\Debug\Interop.WMPLib.dll
+C:\Users\musli\source\repos\Login Radyo\Login Radyo\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\musli\source\repos\Login Radyo\Login Radyo\obj\Debug\Interop.WMPLib.dll
+C:\Users\musli\source\repos\Login Radyo\Login Radyo\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\musli\source\repos\Login Radyo\Login Radyo\obj\Debug\Login Radyo.csproj.ResolveComReference.cache
+C:\Users\musli\source\repos\Login Radyo\Login Radyo\obj\Debug\Login_Radyo.Form3.resources
+C:\Users\musli\source\repos\Login Radyo\Login Radyo\obj\Debug\Login_Radyo.radyooynat.resources
+C:\Users\musli\source\repos\Login Radyo\Login Radyo\obj\Debug\Login_Radyo.Favoriler.resources
+C:\Users\musli\source\repos\Login Radyo\Login Radyo\obj\Debug\Login_Radyo.haberler.resources
+C:\Users\musli\source\repos\Login Radyo\Login Radyo\obj\Debug\Login_Radyo.Form2.resources
+C:\Users\musli\source\repos\Login Radyo\Login Radyo\obj\Debug\Login_Radyo.havadurumu.resources
+C:\Users\musli\source\repos\Login Radyo\Login Radyo\obj\Debug\Login_Radyo.para.resources
+C:\Users\musli\source\repos\Login Radyo\Login Radyo\obj\Debug\Login_Radyo.contact.resources
+C:\Users\musli\source\repos\Login Radyo\Login Radyo\obj\Debug\Login_Radyo.admin.resources
+C:\Users\musli\source\repos\Login Radyo\Login Radyo\obj\Debug\Login_Radyo.link.resources
+C:\Users\musli\source\repos\Login Radyo\Login Radyo\obj\Debug\Login_Radyo.bilgi.resources
